@@ -1,0 +1,15 @@
+.fab {
+    font-family:"Font Awesome 5 Brands"
+}
+.fa-facebook:before {
+    content:"\f09a"
+}
+.fa-facebook-f:before {
+    content:"\f39e"
+}
+.fa-facebook-messenger:before {
+    content:"\f39f"
+}
+.fa-facebook-square:before {
+    content:"\f082"
+}
